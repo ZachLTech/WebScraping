@@ -1,0 +1,3 @@
+## WebScraping
+
+So far nothing here but I plan on learning go to get experience scraping the internet for other projects I'm working on...
